@@ -11,7 +11,7 @@ const USER_CONFIG = {
   APP_ID: 'wxf5e16203ae66205b',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '4c12896daf589a8da266fc8023a3fb19',
+  APP_SECRET: 'f3befe8d9dfe04329c9b0992d677f613',
 
   PROVINCE: '湖北',
   CITY: '孝感',
